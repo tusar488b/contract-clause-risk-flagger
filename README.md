@@ -87,6 +87,15 @@ Each identified risk includes:
 * Risk reason
 * Recommended improvement
 
+Each identified risk includes:
+
+* Clause number
+* Original clause text
+* Risk level
+* Risk type
+* Risk reason
+* Recommended improvement
+
 ## 🎯 Use Case
 
 This automation can help freelancers, businesses, and contract-review teams quickly identify potentially problematic contract language before detailed human or legal review.
