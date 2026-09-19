@@ -101,3 +101,6 @@ This automation can help freelancers, businesses, and contract-review teams quic
 AI Automation Specialist
 
 **Skills:** n8n · AI Agents · API Integration · Workflow Automation · RAG · Google Gemini
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/af3b7cd7-cba7-4534-869a-9bc76d4587af" />
+
