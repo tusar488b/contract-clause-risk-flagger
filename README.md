@@ -87,7 +87,6 @@ Each identified risk includes:
 * Risk reason
 * Recommended improvement
 
-## 🎯 Use Case
 
 ## 🎯 Use Case
 
