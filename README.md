@@ -102,6 +102,15 @@ AI Automation Specialist
 
 **Skills:** n8n · AI Agents · API Integration · Workflow Automation · RAG · Google Gemini
 
+<div class="project-image">
+  <img
+    src="https://github.com/user-attachments/assets/2003e11b-b056-4827-ad33-cabc1db04a51"
+    alt="Contract Clause Risk Flagger n8n workflow"
+    style="width:100%; height:auto; border-radius:12px; margin:16px 0;"
+  />
+  <p>Contract Clause Risk Flagger — n8n Workflow</p>
+</div>
+
 
  <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/2003e11b-b056-4827-ad33-cabc1db04a51" />
 
